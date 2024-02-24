@@ -15,6 +15,7 @@
     
 - High power PTZ infrared lighting system for night driving.
 - Demonstrate solar tracker design using different methods (linear actuator, mini water pumps and solenoids, windlass system, worm gearboxes, harmonic drive etc.).
+  - https://www.youtube.com/watch?v=8PpoBqdOfHw
 - Demonstrate Software motion detector.
 - Demonstrate omnidirectional or directional (using phased array) ultrasonic distance measurement.
   - https://www.youtube.com/watch?v=z4uxC7ISd-c
