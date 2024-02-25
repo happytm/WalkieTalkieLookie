@@ -1,6 +1,9 @@
 # WTLS - WalkieTalkieLookieSnoopy
 
 - Low cost educational platform using 24V power system with solar panels.
+  - https://www.youtube.com/watch?v=yt_4_t4DEqo
+  - https://www.youtube.com/watch?v=uVJXskpkuEE
+
 - Demonstrate long range antenna design for 915, 1575 and 2.4 ghz frequencies (audio, video, control and GPS).
 - Demonstrate low cost 24V brushed and brushless DC motor controllers.
 - Demonstrate long range audio transport with LoRa and ultra low data rate speech quality codecs like codec2, opus or G7xx.
