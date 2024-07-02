@@ -6,7 +6,9 @@
   - https://www.youtube.com/watch?v=Q7A3PlqpgYs
 
 - Demonstrate long range antenna design for 915, 1575 and 2.4 ghz frequencies (audio, video, control and GPS).
-- Demonstrate low cost 24V brushed and brushless DC motor controllers.
+  - https://github.com/happytm/EasyAntennas
+- Demonstrate low cost 24V brushed DC motor as stepper motor.
+  - https://github.com/ruenahcmohr/EGMK
 - Demonstrate long range audio transport with LoRa and ultra low data rate speech quality codecs like codec2, opus or G7xx.
   - https://github.com/happytm/AudioTransport
   - https://github.com/sh123/esp32_opus_arduino
@@ -20,11 +22,11 @@
   - https://www.youtube.com/watch?v=74MSjNhxdxk
   - https://www.youtube.com/watch?v=UKuXeOYwqXk
     
-- High power infrared lighting system mounted on PTZ platform for camera and antennas for night driving.
+- Demonstrate high power infrared lighting system mounted on PTZ platform for camera and antennas for night driving.
 - Demonstrate solar tracker design using different methods (linear actuator, mini water pumps and solenoids, windlass system, worm gearboxes, harmonic drive etc.).
   - https://www.youtube.com/watch?v=8PpoBqdOfHw
 - Demonstrate Software motion detector.
- - https://github.com/happytm/MotionDetector 
+  - https://github.com/happytm/MotionDetector 
 - Demonstrate omnidirectional or directional (using phased array) ultrasonic distance measurement.
   - https://www.youtube.com/watch?v=z4uxC7ISd-c
   - https://www.youtube.com/watch?v=Evao3XUUAOY
