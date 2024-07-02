@@ -9,11 +9,11 @@
 - Demonstrate low cost 24V brushed and brushless DC motor controllers.
 - Demonstrate long range audio transport with LoRa and ultra low data rate speech quality codecs like codec2, opus or G7xx.
 - Demonstrate long range video transport with ESP-CAM for video surveilance. https://github.com/Ncerzzk/esp-vtx
-- Demonstrate PTZ for video camera using low cost 28byj-48 motors (with bipolar mod @24V and 2ms delay lift 2KG water bottle) and big optical zoom lens from old Sony or 
-  Panasonic camcorders.
+- Demonstrate PTZ for video camera using low cost 28byj-48 motors (with bipolar mod @24V and 2ms delay lift 2KG water bottle) 
   - https://www.youtube.com/watch?v=lLF9_rc9G3I
   - https://www.youtube.com/watch?v=hkxnQIKybiI
   - https://www.youtube.com/watch?v=QL3mjnF9lvE
+- Demonstrate big optical zoom lens from old Sony or Panasonic camcorders.
   - https://www.youtube.com/watch?v=74MSjNhxdxk
   - https://www.youtube.com/watch?v=UKuXeOYwqXk
     
