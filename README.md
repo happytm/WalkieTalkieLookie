@@ -8,7 +8,10 @@
 - Demonstrate long range antenna design for 915, 1575 and 2.4 ghz frequencies (audio, video, control and GPS).
 - Demonstrate low cost 24V brushed and brushless DC motor controllers.
 - Demonstrate long range audio transport with LoRa and ultra low data rate speech quality codecs like codec2, opus or G7xx.
-- Demonstrate long range video transport with ESP-CAM for video surveilance. https://github.com/Ncerzzk/esp-vtx
+  - https://github.com/happytm/AudioTransport
+  - https://github.com/sh123/esp32_opus_arduino
+- Demonstrate long range video transport with ESP-CAM for video surveilance.
+  - https://github.com/Ncerzzk/esp-vtx
 - Demonstrate PTZ for video camera using low cost 28byj-48 motors (with bipolar mod @24V and 2ms delay lift 2KG water bottle) 
   - https://www.youtube.com/watch?v=lLF9_rc9G3I
   - https://www.youtube.com/watch?v=hkxnQIKybiI
@@ -17,10 +20,11 @@
   - https://www.youtube.com/watch?v=74MSjNhxdxk
   - https://www.youtube.com/watch?v=UKuXeOYwqXk
     
-- High power PTZ infrared lighting system for night driving.
+- High power infrared lighting system for night driving.
 - Demonstrate solar tracker design using different methods (linear actuator, mini water pumps and solenoids, windlass system, worm gearboxes, harmonic drive etc.).
   - https://www.youtube.com/watch?v=8PpoBqdOfHw
 - Demonstrate Software motion detector.
+ - https://github.com/happytm/MotionDetector 
 - Demonstrate omnidirectional or directional (using phased array) ultrasonic distance measurement.
   - https://www.youtube.com/watch?v=z4uxC7ISd-c
   - https://www.youtube.com/watch?v=Evao3XUUAOY
