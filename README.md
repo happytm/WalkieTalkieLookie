@@ -31,7 +31,7 @@
   - https://www.youtube.com/watch?v=z4uxC7ISd-c
   - https://www.youtube.com/watch?v=Evao3XUUAOY
   - https://www.youtube.com/watch?v=9hD5FPVSsV0
-  - https://www.youtube.com/watch?v=VuzytIcSxwI starting at 13 minutes test of directionality of ultrasonic wavws.
+  - https://www.youtube.com/watch?v=VuzytIcSxwI starting at 13 minutes test of directionality of ultrasonic.
   - https://www.youtube.com/watch?v=-EJcE_m1-CI
     
 - Demonstrate eavesdropping using utrasonic speaker array and laser bouncing technologies.
