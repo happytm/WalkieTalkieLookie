@@ -26,6 +26,7 @@
 - Demonstrate high power infrared lighting system mounted on PTZ platform for camera and antennas for night driving.
 - Demonstrate solar tracker design using different methods (linear actuator, mini water pumps and solenoids, windlass system, worm gearboxes, harmonic drive etc.).
   - https://www.youtube.com/watch?v=8PpoBqdOfHw
+  - https://github.com/happytm/SunTracker
 - Demonstrate Software motion detector.
   - https://github.com/happytm/MotionDetector 
 - Demonstrate omnidirectional or directional (using phased array) ultrasonic distance measurement.
