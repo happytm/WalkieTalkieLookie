@@ -14,6 +14,7 @@
   - https://github.com/sh123/esp32_opus_arduino
 - Demonstrate long range video transport with ESP-CAM for video surveilance.
   - https://github.com/Ncerzzk/esp-vtx
+  - https://github.com/RomanLut/hx-esp32-cam-fpv
 - Demonstrate PTZ for video camera using low cost 28byj-48 motors (with bipolar mod @24V and 2ms delay lift 2KG water bottle) 
   - https://www.youtube.com/watch?v=lLF9_rc9G3I
   - https://www.youtube.com/watch?v=hkxnQIKybiI
