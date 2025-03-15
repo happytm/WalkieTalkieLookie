@@ -5,7 +5,7 @@
   - https://www.youtube.com/watch?v=uVJXskpkuEE
   - https://www.youtube.com/watch?v=Q7A3PlqpgYs
 
-- Demonstrate long range antenna design for 915, 1575 and 2.4 ghz frequencies (audio, video, control and GPS).
+- Demonstrate long range antenna design for 915, 1575 , 2.4 ghz and 24 ghz frequencies (audio, video, control and GPS).
   - https://github.com/happytm/EasyAntennas
 - Demonstrate low cost 24V brushed DC motor as stepper motor.
   - https://github.com/ruenahcmohr/EGMK
