@@ -35,7 +35,8 @@
   - https://www.youtube.com/watch?v=9hD5FPVSsV0
   - https://www.youtube.com/watch?v=VuzytIcSxwI starting at 13 minutes test of directionality of ultrasonic.
   - https://www.youtube.com/watch?v=-EJcE_m1-CI
-    
+- Demonstrate FMWC radar sensors like HLK-LD2450 and LD2451 for distance, velocity and angle measurement.
+ 
 - Demonstrate eavesdropping using utrasonic speaker array and laser bouncing technologies.
   - https://www.youtube.com/watch?v=MTpZsKCUvcc
   - https://www.youtube.com/watch?v=qJpS7fcxgt0
