@@ -37,7 +37,7 @@
   - https://www.youtube.com/watch?v=-EJcE_m1-CI
   - https://www.youtube.com/watch?v=PD3Y1l8XyUw
     
-- Demonstrate FMWC radar sensors like HLK-LD2450 and LD2451 for distance, velocity and angle measurement.
+- Demonstrate FMWC radar sensors like HLK-LD2450, RD-03D and LD2451 for distance, velocity and angle measurement.
  
 - Demonstrate eavesdropping using utrasonic speaker array and laser bouncing technologies.
   - https://www.youtube.com/watch?v=MTpZsKCUvcc
