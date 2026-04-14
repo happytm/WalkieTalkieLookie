@@ -46,7 +46,7 @@
   - https://www.youtube.com/watch?v=R5nMqju6crY
   - https://github.com/samyk/rflasermic
  
-= Experiments in long range Infra-red light
+- Experiments in long range Infra-red light
 
   - https://www.youtube.com/watch?v=b3yZxGQ48QY
   - https://www.youtube.com/@W1VLF/videos
