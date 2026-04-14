@@ -24,7 +24,11 @@
   - https://www.youtube.com/watch?v=UKuXeOYwqXk
     
 - Demonstrate high power infrared lighting system mounted on PTZ platform for camera and antennas for night driving.
-- Demonstrate solar tracker design using different methods (linear actuator, mini water pumps and solenoids, windlass system, worm gearboxes, harmonic drive etc.).
+  Experiments in long range Infra-red light
+
+  - https://www.youtube.com/watch?v=b3yZxGQ48QY
+  - https://www.youtube.com/@W1VLF/videos
+- Demonstrate solar tracker design using different methods (linear actuator, mini water pumps and solenoids, windlass system, worm gearboxes, harmonic   drive etc.).
   - https://www.youtube.com/watch?v=8PpoBqdOfHw
   - https://github.com/happytm/SunTracker
 - Demonstrate Software motion detector.
@@ -46,8 +50,5 @@
   - https://www.youtube.com/watch?v=R5nMqju6crY
   - https://github.com/samyk/rflasermic
  
-- Experiments in long range Infra-red light
 
-  - https://www.youtube.com/watch?v=b3yZxGQ48QY
-  - https://www.youtube.com/@W1VLF/videos
   
